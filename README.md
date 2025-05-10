@@ -27,17 +27,7 @@
 ---
 
 ## 📈 GitHub Analytics  
-| **Metrics**          | **Insights** |
-|----------------------|-------------|
-| ![Profile Stats](https://github-readme-stats.vercel.app/api?username=Yosr-2001&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosr-2001&layout=compact&theme=radical&hide_border=true) |  
-| ![Streak](https://streak-stats.demolab.com/?user=Yosr-2001&theme=radical&hide_border=true) | ![Contributions](https://github-contributor-stats.vercel.app/api?username=Yosr-2001&theme=radical) |  
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yosr-2001&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Yosr-2001&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosr-2001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yosr-2001&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Yosr-2001&theme=dark&hide_border=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosr-2001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
