@@ -46,4 +46,6 @@ I'm all about clean code, continuous learning, and collaborative problem-solving
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=Yosr-2001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
- 
+
+![snake gif](https://github.com/Yosr-2001/Yosr-2001/blob/output/github-snake-dark.svg)
+
