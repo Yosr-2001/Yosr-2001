@@ -34,8 +34,8 @@ With a strong foundation in **web and mobile development**, I build sleek, user-
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yosr-2001&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
- ![GitHub Streak](https://streak-stats.demolab.com/?user=Yosr-2001&theme=tokyonight&hide_border=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosr-2001&theme=tokyonight&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yosr-2001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=transparent)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Yosr-2001&theme=tokyonight&hide_border=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosr-2001&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
