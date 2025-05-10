@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Yosr Ben Amar — a second-year Software Engineering student at the International Institute of Technology (IIT Sfax), driven by a deep passion for crafting smart, scalable digital experiences.
+# ✨ About Me:
+👋🏻 Hi, I'm Yosr Ben Amar — a second-year Software Engineering student at the International Institute of Technology (IIT Sfax), driven by a deep passion for crafting smart, scalable digital experiences.
 
 With a strong foundation in web and mobile development, I build sleek, user-focused applications using modern tools and frameworks. Currently, I'm expanding my expertise into the world of DevOps, where I'm exploring automation, CI/CD, and cloud-native technologies to bridge the gap between development and operations.
 
@@ -37,7 +37,7 @@ I'm all about clean code, continuous learning, and collaborative problem-solving
 
 ---
 
-### ✍️ Quote Of The Daay 
+### ✍🏻 Quote Of The Daay 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
