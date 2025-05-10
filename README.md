@@ -6,16 +6,31 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yosr-ben-amar-577a44207/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/YosrBenAmar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yosrbenamar9@gmail.com) 
 ---
 
-## 💻 Tech Stack
-- **Languages**: ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+## 🛠️ Technical Expertise  
 
-- **Web Development**: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+### **Programming Languages**  
+![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-Advanced-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript/TypeScript](https://img.shields.io/badge/JS/TS-Proficient-F7DF1E?style=flat&logo=typescript&logoColor=007ACC) ![Dart](https://img.shields.io/badge/Dart-Intermediate-0175C2?style=flat&logo=dart&logoColor=white)  
 
-- **Mobile Development**: ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+### **Frontend Development**  
+![React](https://img.shields.io/badge/React-Advanced-20232A?style=flat&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-Intermediate-DD0031?style=flat&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-Mobile_Dev-02569B?style=flat&logo=flutter&logoColor=white)  
 
-- **Databases**: ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+### **Backend & Databases**  
+![Laravel](https://img.shields.io/badge/Laravel-Experienced-FF2D20?style=flat&logo=laravel&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-Learning-5C2D91?style=flat&logo=dotnet&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-Proficient-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL_Expert-4EA94B?style=flat&logo=mongodb&logoColor=white)  
 
-- **DevOps**: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+### **DevOps & Tools**  
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white) ![Git/GitHub](https://img.shields.io/badge/Git/GitHub-Version_Control-F05033?style=flat&logo=git&logoColor=white)  
+
+### **Data Science & Analytics**  
+![Pandas/NumPy](https://img.shields.io/badge/Pandas/NumPy-Data_Analysis-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat&logo=matplotlib&logoColor=white)  
+
+---
+
+## 📈 GitHub Analytics  
+| **Metrics**          | **Insights** |
+|----------------------|-------------|
+| ![Profile Stats](https://github-readme-stats.vercel.app/api?username=Yosr-2001&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosr-2001&layout=compact&theme=radical&hide_border=true) |  
+| ![Streak](https://streak-stats.demolab.com/?user=Yosr-2001&theme=radical&hide_border=true) | ![Contributions](https://github-contributor-stats.vercel.app/api?username=Yosr-2001&theme=radical) |  
 
 ---
 
