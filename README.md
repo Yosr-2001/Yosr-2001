@@ -33,12 +33,11 @@ I'm all about clean code, continuous learning, and collaborative problem-solving
 ---
 
 ## 📈 GitHub Analytics  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Yosr-2001&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosr-2001&theme=dark&hide_border=true&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Yosr-2001&theme=dark&hide_border=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosr-2001&theme=dark&hide_border=true&layout=compact)
 
 ---
 
-### ✍️ Developer Quote
+### ✍️ Quote Of The Daay 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
@@ -47,5 +46,4 @@ I'm all about clean code, continuous learning, and collaborative problem-solving
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=Yosr-2001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=Yosr-2001&label=Profile%20Views&color=0&icon=6&pretty=true)
+ 
