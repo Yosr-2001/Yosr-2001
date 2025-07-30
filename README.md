@@ -7,6 +7,12 @@ I'm all about clean code, continuous learning, and collaborative problem-solving
 
 🌱 Let's connect, code, and create something great.
 
+📬 Get in Touch
+I'm always open to collaboration, interesting ideas, or just a good tech chat. Feel free to drop me a message anytime!
+
+📧 Email: benamar.yosr@iit.ens.tn
+📬 Personal inbox: yosrbenamar9@gmail.com
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yosr-ben-amar-577a44207) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YosrBenAmar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yosrbenamar9@gmail.com) 
 
