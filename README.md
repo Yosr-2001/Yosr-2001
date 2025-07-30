@@ -7,7 +7,7 @@ I'm all about clean code, continuous learning, and collaborative problem-solving
 
 🌱 Let's connect, code, and create something great.
 
-📬 Get in Touch
+Get in Touch
 I'm always open to collaboration, interesting ideas, or just a good tech chat. Feel free to drop me a message anytime!
 
 📧 Email: benamar.yosr@iit.ens.tn
