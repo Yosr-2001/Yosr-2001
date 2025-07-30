@@ -32,15 +32,5 @@ I'm all about clean code, continuous learning, and collaborative problem-solving
 
 ---
 
-## 📈 GitHub Analytics  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Yosr-2001&theme=dark&hide_border=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosr-2001&theme=dark&hide_border=true&layout=compact)
-
----
-
-### ✍🏻 Quote Of The Daay 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
 ![snake gif](https://github.com/Yosr-2001/Yosr-2001/blob/output/github-snake-dark.svg)
 
